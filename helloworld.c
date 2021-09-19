@@ -3,5 +3,9 @@
 int main(void)
 {
     printf("Hello World!");
-    printf("Akash here!");
 }
+
+// git init
+// git add .
+// git commit -m "commit message"
+// Ctrl + /
