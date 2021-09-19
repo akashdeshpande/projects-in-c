@@ -11,3 +11,5 @@ int main(void)
 // made some changes
 // git add .
 // git commit
+// pushed code to github
+// ignoring files in commits
