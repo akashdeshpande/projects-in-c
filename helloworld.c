@@ -8,4 +8,6 @@ int main(void)
 // git init
 // git add .
 // git commit -m "commit message"
-// Ctrl + /
+// made some changes
+// git add .
+// git commit
